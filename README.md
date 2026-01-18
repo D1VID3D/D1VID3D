@@ -1,5 +1,6 @@
 - Im a web and bot developer *Not currently active on GitHub* :>
 - JS, Java, Python, .NET, Developer
+- Homelab and Linux enthusiast
 
 <!---
 D1VID3D/D1VID3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
