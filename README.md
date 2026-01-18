@@ -1,4 +1,4 @@
-- Im a web and bot developer *Not currently active at GitHub* :>
+- Im a web and bot developer *Not currently active on GitHub* :>
 - JS, Java, Python, .NET, Developer
 
 <!---
